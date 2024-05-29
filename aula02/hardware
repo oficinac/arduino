@@ -1,5 +1,5 @@
 1 Arduino Uno R3;
-1 Led;
-1 Resistor 300 ohms;
+3 Led;
+3 Resistor 330 ohms;
 1 Protoboard;
-2 Fios jumper 
+4 Fios jumper 
