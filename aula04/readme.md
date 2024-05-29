@@ -1,1 +1,4 @@
-
+1 Arduino Uno R3;
+1 Micro Servo Motor 9g;
+1 Protoboard;
+3 Fios jumper 
