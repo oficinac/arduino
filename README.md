@@ -11,7 +11,6 @@ https://wokwi.com/projects/328451800839488084
 
 /**
    Arduino Calculator
-
    Copyright (C) 2020, Uri Shaked.
    Released under the MIT License.
 */
